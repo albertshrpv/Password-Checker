@@ -70,7 +70,7 @@ def main(args):
                                 print(new_pw)
 
         else:
-            print(f'{password} was not found!')
+            print(f'{password} was not found and is safe to use!')
     return 'done!'
 
 
